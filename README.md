@@ -14,13 +14,8 @@ NOTE: Screenshots outdated, not reflective of current state of the app.
 
 
 # Changelog
-~~No save feature as of yet. Will get to it when I have the time.~~
 
 Save feature has been added.
-
-~~Alerts partially implemented. You can set date and time of the alert, as well as a note accompanying the alert.~~
-
-~~However, alarm has not been implemented to alert as of yet.~~
 
 Alert feature, with working alarm notification has been implemented.
 
